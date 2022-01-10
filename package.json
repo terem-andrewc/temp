@@ -1,0 +1,11 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "apps/backend",
+    "apps/frontend"
+  ]
+}
